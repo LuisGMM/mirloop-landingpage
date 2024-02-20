@@ -1,16 +1,16 @@
 app:
   screenshots: Screenshots
-  description: Description
+  description: Descripción
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ❤️  by Mirloop Dev Team 
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/luisgmm/
       target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
-      target: _blank
+    # - title: Donate
+    #   url: https://paypal.me/kanbanote
+    #   target: _blank
     - title: Privacy
       url: /privacy
